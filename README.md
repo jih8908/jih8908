@@ -1,5 +1,8 @@
 ### Hi there 👋
 <p align="left">
+ <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>
+ <img src="https://img.shields.io/badge/JSP-007396?style=flat&logo=Java&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Ajax-008000?style=flat&logo=Ajax&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-4.3.2-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-17.0.2-61DAFB?style=flat&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
