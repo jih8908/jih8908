@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/TypeScript-#61DAFB?style=flat&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/#61DAFB?style=flat&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 <!--
 **jih8908/jih8908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
