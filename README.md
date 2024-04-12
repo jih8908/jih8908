@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+<img src="https://img.shields.io/badge/JavaScript-4.3.2-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-17.0.2-61DAFB?style=flat&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/#61DAFB?style=flat&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 <!--
