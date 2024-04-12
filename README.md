@@ -14,7 +14,7 @@
  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/>
 </p>
 <p>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=white"/>
  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=Adobe%20Illustrator&logoColor=white"/>
 </p>
 <!--
