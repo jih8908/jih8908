@@ -1,4 +1,6 @@
+<h3 align="center">
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=I'm,%20YuJihye!&fontSize=90" />
+</h3>
 
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
@@ -33,7 +35,7 @@
 <!-- #02569B
  #232F3E-->
 </p>
-:smile:Possessed Skills:smile:
+<h3 align="center">:smile:Possessed Skills:smile:</h3>
 <p>
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=Adobe%20Illustrator&logoColor=white"/>
