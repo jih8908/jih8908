@@ -13,7 +13,8 @@
   </a>
 </p>
 
-:memo::computer:I'm studying:bulb::books:
+<h3 align="center">:memo::computer:I'm studying:bulb::books:</h3>
+
 <p align="left">
  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>
  <img src="https://img.shields.io/badge/JSP-007396?style=flat&logo=Java&logoColor=white"/>
