@@ -1,5 +1,5 @@
 <h3 align="center">
-<img src="https://capsule-render.vercel.app/api?type=overlapping&color=auto&height=300&section=header&text=I'm,%20YuJihye!&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=I'm,%20YuJihye!&fontSize=90" />
 </h3>
 
 <h3 align="center">💡 My Most Used Languages 💡</h3>
