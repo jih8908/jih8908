@@ -1,5 +1,18 @@
-### Hi there 👋
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=I'm,%20YuJihye!&fontSize=90" />
+
+<h3 align="center">💡 My Most Used Languages 💡</h3>
+<p align="center">
+  <a href="https://github.com/${jih8908}">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=${jih8908}&layout=compact&show_icons=${아이콘 보여줄지}&show_owner=${소유자 표기}&hide_title=${타이틀 가리기}&theme=${테마}&hide=${가리고 싶은 언어}" />
+  </a>
+</p>
+<h3 align="center">💡 My Git Stats 💡</h3>
+<p align="center">
+  <a href="https://github.com/${jih8908}">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=${jih8908}&hide=${가릴항목}&hide_title=${타이틀숨김}&show_icons=${깃아이콘표시}&include_all_commits=${올해말고 전체년도 커밋표기}&theme=${테마}" />
+  </a>
+</p>
+
 :memo::computer:I'm studying:bulb::books:
 <p align="left">
  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>
