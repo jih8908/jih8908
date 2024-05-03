@@ -17,7 +17,7 @@
 
 <h3 align="center">:memo::computer:I'm studying:bulb::books:</h3>
 
-<p align="left">
+<p align="center">
  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>
  <img src="https://img.shields.io/badge/JSP-007396?style=flat&logo=Java&logoColor=white"/>
  <img src="https://img.shields.io/badge/Ajax-008000?style=flat&logo=Ajax&logoColor=white"/>
@@ -36,7 +36,7 @@
  #232F3E-->
 </p>
 <h3 align="center">:smile:Possessed Skills:smile:</h3>
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=Adobe%20Illustrator&logoColor=white"/>
 </p>
