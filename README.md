@@ -15,7 +15,7 @@
   </a>
 </p>
 
-<h3 align="center">💡 My Most favorite Languages 💡</h3>
+<h3 align="center">:smile: My Most favorite Languages :smile:</h3>
 
 <p align="center">
  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>
@@ -35,7 +35,7 @@
 <!-- #02569B
  #232F3E-->
 </p>
-<h3 align="center">:smile:Possessed Skills:smile:</h3>
+<h3 align="center">:smile: Possessed Skills :smile:</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=Adobe%20Illustrator&logoColor=white"/>
