@@ -15,7 +15,7 @@
   </a>
 </p>
 
-<h3 align="center">:computer:I'm studying:books:</h3>
+<h3 align="center">:smile:I'm studying:smile:</h3>
 
 <p align="center">
  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>
