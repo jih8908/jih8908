@@ -15,7 +15,7 @@
   </a>
 </p>
 
-<h3 align="center">:smile:I'm studying:smile:</h3>
+<h3 align="center">💡 My Most favorite Languages 💡</h3>
 
 <p align="center">
  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>
@@ -41,7 +41,7 @@
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=Adobe%20Illustrator&logoColor=white"/>
 </p>
 
-<h3 align="center"> ✨Hits ✨</h3>
+<h3 align="center"> :smile: Hits :smile:</h3>
 <p align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjih8908%2Fhit-counter&count_bg=%23F300C0&title_bg=%23E989C7&icon=opsgenie.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
