@@ -1,6 +1,17 @@
 <h3 align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=I'm,%20YuJihye!&fontSize=90" />
+</h3>
 
+<h3 align="center">
+안녕하세요! 저는유지혜입니다. 👋
+
+🎓 현재는 개발자로의 성장을 목표로 스스로를 발전시키고 있으며, 플러터를 이용한 프로젝트를 진행 중입니다.
+
+💼 전문적인 소프트웨어 개발 능력을 갖추기 위해 개발자 커뮤니티에서 활발히 활동하고 있으며, 새로운 기술에 대한 학습과 공유를 중요하게 생각합니다.
+
+🌱 끊임없는 성장을 추구하고, 도전적인 프로젝트에 도전하는 것을 좋아합니다. 현재는 백엔드 개발에 집중하여 더 깊은 이해와 능력을 키우고 있습니다.
+
+📫 저와 소통하고 싶으시다면 언제든지 연락주세요!
 </h3>
 
 <h3 align="center">💡 My Most Used Languages 💡</h3>
