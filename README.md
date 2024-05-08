@@ -48,8 +48,9 @@
 </p>
 
 <h3 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&&descAlign=64&reversal=false&section=footer" />
 </h3>
+
 
 <!--
 **jih8908/jih8908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
