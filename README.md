@@ -47,7 +47,7 @@
 </p>
 
 <h3 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=300" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=100" />
 </h3>
 
 <!--
