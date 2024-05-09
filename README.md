@@ -45,11 +45,7 @@
  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/>
  <img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=Flutter&logoColor=#02569B"/>
  <img src="https://img.shields.io/badge/Aws-232F3E?style=plastic&logo=Aws&logoColor=#232F3E"/>
-  <img src="https://img.shields.io/badge/Vue-F80000?style=flat&logo=Vue&logoColor=white"/>
-
-
-<!-- #02569B
- #232F3E-->
+ <img src="https://img.shields.io/badge/Vue-F80000?style=flat&logo=Vue&logoColor=white"/>
 </p>
 <h3 align="center">:smile: Possessed Skills :smile:</h3>
 <p align="center">
