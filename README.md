@@ -28,7 +28,7 @@
   </a>
 </p>
 
-<h3 align="center">:smile: My Most favorite Languages :smile:</h3>
+<h3 align="center">:smile: My Most Used Languages :smile:</h3>
 
 <p align="center">
  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>
