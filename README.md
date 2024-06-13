@@ -15,7 +15,7 @@
 📫 이러한 노력들을 통해 전문적인 개발자가 되어, 다양한 문제를 해결하고 혁신적인 솔루션을 제공하고 싶습니다. 감사합니다!
 </p>
 
-<h3 align="center">💡 My Most Used Languages 💡</h3>
+<h3 align="center">💡 My Main Language 💡</h3>
 <p align="center">
   <a href="https://github.com/jih8908">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jih8908&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=light&hide=html,css" />
